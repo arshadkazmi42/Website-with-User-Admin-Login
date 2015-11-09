@@ -1,0 +1,95 @@
+.text{
+	color: #a6e348;
+	font-size: 20px;
+	font-family: Century Gothic;
+	position:relative;
+	margin-left:4px;
+	font-weight:strong;
+	
+}
+
+.stext{
+	color: #a6e348;
+	font-size: 15px;
+	font-family: Century Gothic;
+	position:relative;
+	margin-left:4px;
+	font-weight:strong;
+	
+}
+
+.heading{
+	font-size:20px;
+	color: #a6e348;
+	font-family:Century Gothic;
+	
+}
+
+.box1{
+	border:1px;
+	color:blue;
+	border-style:solid;
+	border-color:#a6e348;
+}
+
+.box2{
+	border:1px;
+	color:blue;
+	border-style:solid;
+	border-color:#a6e348;	
+}
+
+.submit{
+	background-color: transparent;
+	border-style: solid;
+	border-width: 1px 1px 1px 1px;
+	border-color:#a6e348;
+	font-family: Century Gothic;
+	color:#a6e348;
+}
+
+
+.checkbox{
+	background-color: transparent;
+	border-style: solid;
+	border-width: 1px 1px 1px 1px;
+	border-color:#a6e348;
+	font-family: Century Gothic;
+	color:green;
+}
+
+.button{
+	background-color:#eefdd6;
+	font-family:Century Gothic;
+	border-style:solid;
+	border-color:#a6e348;
+	color:#a6e348;
+	font-size:15px;
+	font-weight:strong;
+	
+}
+
+.red{
+	font-family:Century Gothic;
+	color:#FF0000;
+	font-size:20px;
+}
+
+.line{
+	border-style:dotted;
+	border-width:0px 0px 2px 0px;
+	border-color:#a6e348;
+	width:200px;
+	height:200px;
+}
+
+.admin_tabel {
+	padding: 10px;
+	background-color: black;
+	border: #a6e348 1px solid;
+	width: 1200px;
+}
+
+.tabel_header, .tabel_header:hover {
+	background-color: #999999;		
+}
